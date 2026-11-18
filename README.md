@@ -1,45 +1,59 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<div align="center">
+
+# Salima Banani
+
+### Étudiante en informatique | Future spécialiste en cybersécurité 🔐
+
+*De la ligne de conduite aux lignes de code.*
+
+Étudiante chez CODA, je développe progressivement mes compétences
+en programmation, systèmes et réseaux.
+
+[LinkedIn](https://www.linkedin.com/in/salimabanani/)
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+## À propos de moi
+
+- 🎓 Étudiante en informatique chez CODA
+- 💻 Apprentissage de la programmation en C
+- 🐧 Découverte de Linux
+- 🔐 Intérêt pour la cybersécurité
+- 🌐 Curieuse des systèmes et réseaux
+- 🎯 Objectif : développer mes compétences et trouver une alternance
+
+## Technologies & outils
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-243B63?style=flat-square&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-477DAA?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9B745C?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-243B63?style=flat-square&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E6D6C3?style=flat-square&logo=html5&logoColor=243B63)
+
 </div>
 
-###
+## Mes objectifs
 
-<h1 data-importer="text" align="center">Hello moi c'est salima 👋</h1>
+- Approfondir mes connaissances en programmation
+- Découvrir les infrastructures réseaux
+- Développer mes compétences en cybersécurité
+- Réaliser des projets concrets
 
-###
+## En dehors du code
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+🏂 Snowboard · 🌍 Voyages · 🎮 Culture geek · 🧘 Pilates
 
-###
+---
 
-<p data-importer="text" align="left">🏭 ➜ 💻 Des lignes de production aux lignes de code · Bac+3 @ École CODA · 🔐 À la recherche d'une alternance cyber 2027</p>
+<div align="center">
 
-###
+*Apprendre, explorer et progresser chaque jour.*
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+💙 Merci de visiter mon profil !
 
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
