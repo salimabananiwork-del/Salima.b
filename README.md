@@ -3,7 +3,7 @@
 
 # Salima Banani
 
-### Étudiante en informatique | Future spécialiste en cybersécurité 🔐
+### Étudiante en informatique | A la recherche d'une alternance
 
 *De la ligne de conduite aux lignes de code.*
 
